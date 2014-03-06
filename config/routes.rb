@@ -1,6 +1,8 @@
 Keepscore::Application.routes.draw do
   root :to => "home#index"
-  resources :users, :only => [:index, :show, :edit, :update ]
+  resources :users, :only => [:index, :show, :edit, :update, :new, :create]
+  resources :games, :only => [:index, :show, :edit, :update, :new, :create]
+  resources :game_sets, :only => [:index, :show, :edit, :update, :new, :create, :destroy]
   get '/auth/:provider/callback' => 'sessions#create'
   get '/signin' => 'sessions#new', :as => :signin
   get '/signout' => 'sessions#destroy', :as => :signout

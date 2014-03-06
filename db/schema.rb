@@ -11,7 +11,38 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140304190300) do
+ActiveRecord::Schema.define(version: 20140304200801) do
+
+  create_table "game_set_players", force: true do |t|
+    t.integer  "game_id"
+    t.integer  "game_set_id"
+    t.integer  "team_id"
+    t.integer  "user_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "game_set_players", ["game_id"], name: "index_game_set_players_on_game_id"
+  add_index "game_set_players", ["game_set_id"], name: "index_game_set_players_on_game_set_id"
+  add_index "game_set_players", ["team_id"], name: "index_game_set_players_on_team_id"
+  add_index "game_set_players", ["user_id"], name: "index_game_set_players_on_user_id"
+
+  create_table "game_sets", force: true do |t|
+    t.integer  "game_id"
+    t.integer  "first_team_id"
+    t.integer  "second_team_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "game_sets", ["game_id"], name: "index_game_sets_on_game_id"
+
+  create_table "games", force: true do |t|
+    t.string   "name"
+    t.text     "description"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
   create_table "roles", force: true do |t|
     t.string   "name"
@@ -23,6 +54,22 @@ ActiveRecord::Schema.define(version: 20140304190300) do
 
   add_index "roles", ["name", "resource_type", "resource_id"], name: "index_roles_on_name_and_resource_type_and_resource_id"
   add_index "roles", ["name"], name: "index_roles_on_name"
+
+  create_table "teams", force: true do |t|
+    t.integer  "score"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "teams_users", force: true do |t|
+    t.integer  "team_id"
+    t.integer  "user_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "teams_users", ["team_id"], name: "index_teams_users_on_team_id"
+  add_index "teams_users", ["user_id"], name: "index_teams_users_on_user_id"
 
   create_table "users", force: true do |t|
     t.string   "name"
