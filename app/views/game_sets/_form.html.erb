@@ -1,0 +1,35 @@
+<%= simple_form_for(@game_set) do |f| %>
+  <%= f.error_notification %>
+  <div class="form-group">
+    <div class="row">
+      <div class="col-xs-4">
+        <%= f.association :game, :default => 0, input_html: { class: 'form-control' } %>
+      </div>
+    </div>
+    <div class="row">
+      <div>
+        <div class="col-xs-2">
+          <h4>Team A</h4>
+          <%= f.simple_fields_for :first_team do |p| %>
+             <%= p.association :users, input_html: { class: 'form-control', :multiple => false }, :default => 0 %>
+             <%= p.input :score, input_html: { class: 'form-control' } %>
+          <% end %>
+        </div>
+        <div class="col-xs-2">
+          <h4>Team B</h4>
+          <%= f.simple_fields_for :second_team do |p| %>
+             <%= p.association :users, input_html: { class: 'form-control', :multiple => false }, :default => 0 %>
+             <%= p.input :score, input_html: { class: 'form-control' } %>
+          <% end %>
+        </div>
+      </div>
+    </div>
+  </div> 
+  <div class="form-group">
+    <div class="row">
+      <div class="col-xs-4">
+        <%= f.button :submit, input_html: { class: 'btn btn-default' } %>
+      </div>
+    </div>
+  </div>
+<% end %>
