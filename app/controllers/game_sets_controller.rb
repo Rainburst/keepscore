@@ -1,4 +1,5 @@
 class GameSetsController < ApplicationController
+  before_filter :authenticate_user!
   before_action :set_game_set, only: [:show, :edit, :update, :destroy]
 
   # GET /game_sets
@@ -77,7 +78,9 @@ class GameSetsController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def game_set_params
-      params.require(:game_set).permit(:game_id, first_team_attributes: [:score, :user_ids], second_team_attributes: [:score, :user_ids])
+      params.require(:game_set).permit(:game_id, 
+        first_team_attributes: [:score, :user_ids, :user_ids => []], 
+        second_team_attributes: [:score, :user_ids, :user_ids => []])
     end
 
 end

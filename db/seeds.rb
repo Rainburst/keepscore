@@ -13,3 +13,4 @@ YAML.load(ENV['ROLES']).each do |role|
   puts 'role: ' << role
 end
 Game.create(name: 'Kicker: 1 vs 1', description: "2 players. 1 ball")
+Game.create(name: 'Kicker: 2 vs 2', description: "4 players. 2 teams. 1 ball")

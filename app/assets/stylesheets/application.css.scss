@@ -9,5 +9,107 @@
  * compiled file, but it's generally better to create a new file per style scope.
  *
  *= require_self
+ *= require bootstrap-select.min
  *= require_tree .
  */
+
+
+/* Homepage elements */
+
+.masthead {
+    position: relative;
+    padding: 6em 0;
+    text-align: center;
+    color: #fff;
+    background-color: #883988;
+}
+
+.masthead h1 {
+    font-size: 5em;
+    line-height: 1;
+}
+
+#social {
+    padding-top: 4.5em;
+}
+
+.intro-marketing {
+    padding-bottom: 3em;
+    background-color: #fbdedb;
+}
+
+.intro-marketing-box {
+    padding-top: 3em;
+}
+
+.templates {
+    padding: 3em 0;
+}
+
+.preview {
+    padding: 1em 0 3em;
+    text-align: center;
+}
+
+.download-links > li {
+    margin-bottom: 5px;
+}
+
+footer {
+    padding: 3em 0;
+    text-align: left;
+}
+
+.btn-primary {
+    border-color: #a5423b;
+    color: #ffffff;
+    background-color: #b84d45;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+    border-color: #a5423b;
+    color: #ffffff;
+    background-color: #a5423b;
+}
+
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+    background-image: none;
+}
+
+.yellow {
+  color: #f0ad4e;
+}
+
+
+@media(max-width:991px) {
+    .masthead {
+        padding: 1em 0;
+    }
+
+    .masthead h1 {
+        font-size: 3em;
+    }
+
+    .intro-marketing {
+        padding: 3em 0;
+    }
+}
+
+@media(max-width:767px) {
+    .dropdown-menu > li > a,
+    .dropdown-menu > li > a {
+        color: #fbdedb;
+    }
+
+    .dropdown-menu > li > a:hover,
+    .dropdown-menu > li > a:focus {
+        color: #fff;
+        background-color: #a5423b;
+    }
+}
