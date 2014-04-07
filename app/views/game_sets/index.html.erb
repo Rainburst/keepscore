@@ -1,8 +1,11 @@
 <h3>Listing Scores</h3>
 
+<%= link_to 'New Score', new_game_set_path %>
+
 <table class="table">
   <thead>
     <tr>
+      <th>Game</th>
       <th>Team A</th>
       <th>Team B</th>
       <th></th>
@@ -12,6 +15,7 @@
   <tbody>
     <% @game_sets.each do |game_set| %>
       <tr>
+        <td><%= game_set.game.name %></td>
         <td><%= game_set.first_team.users.map{|u| u.name}.join(', ') %><br><%=  game_set.first_team.score %></td>
         <td><%= game_set.second_team.users.map{|u| u.name}.join(', ') %> <br><%= game_set.second_team.score %></td>
         <td><%= link_to 'Edit', edit_game_set_path(game_set) %></td>
@@ -23,4 +27,4 @@
 
 <br>
 
-<%= link_to 'New Score', new_game_set_path %>
+

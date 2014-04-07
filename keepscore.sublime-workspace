@@ -1,0 +1,1548 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Game",
+				"GameSet"
+			],
+			[
+				"paren",
+				"parentNode"
+			],
+			[
+				"gets",
+				"getJSON  (function)"
+			],
+			[
+				"hi",
+				"hide  (function)"
+			],
+			[
+				"lo",
+				"logd	logger.debug"
+			],
+			[
+				"m",
+				"main	main()"
+			],
+			[
+				"tag",
+				"tag=  (attribute)"
+			],
+			[
+				"main",
+				"func main	func main {...} ʂ"
+			],
+			[
+				"C",
+				"Conn	net.Conn ν"
+			],
+			[
+				"c",
+				"Close	error ƒ"
+			],
+			[
+				"sprint",
+				"Sprintf	string ƒ"
+			],
+			[
+				"pa",
+				"Parsed	bool ƒ"
+			],
+			[
+				"pri",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"p",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"file",
+				"fileName	 Ɩ"
+			],
+			[
+				"Prin",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"Spr",
+				"Sprintf	string ƒ"
+			],
+			[
+				"D",
+				"Duration	int64 ʈ"
+			],
+			[
+				"pr",
+				"Println"
+			],
+			[
+				"sys",
+				"sysCmd"
+			],
+			[
+				"imp",
+				"imp	Import"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"run",
+				"runTo"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/views/game_sets/_form.html.erb",
+			"settings":
+			{
+				"buffer_size": 1261,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/game_set.js",
+			"settings":
+			{
+				"buffer_size": 181,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/layouts/about.html.erb",
+			"settings":
+			{
+				"buffer_size": 112,
+				"line_ending": "Unix",
+				"name": "<div class=\"row\"></div>"
+			}
+		},
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 557,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/application.css.scss",
+			"settings":
+			{
+				"buffer_size": 2027,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/GoSublime/GoSublime.sublime-build",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"zen",
+				"Zen Coding: Zen as you type"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"gitdif",
+				"Git: Diff Current File"
+			],
+			[
+				"git ",
+				"Github: Blame"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"refor",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"reform",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"prett",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"pret",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"insap",
+				"Package Control: Install Package"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"ssq",
+				"Set Syntax: SQL"
+			],
+			[
+				"sssq",
+				"Set Syntax: SQL"
+			],
+			[
+				"gilog",
+				"Git: Log Current File"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"gitlog",
+				"Git: Log Current File"
+			],
+			[
+				"githis",
+				"Git: Commit history"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"goto",
+				"Goto Documentation"
+			],
+			[
+				"ssgl",
+				"Set Syntax: GoSublime"
+			],
+			[
+				"",
+				"Bookmarks: Toggle"
+			],
+			[
+				"boo",
+				"Bookmarks: Toggle"
+			],
+			[
+				"book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"mark",
+				"Bookmarks: Toggle"
+			],
+			[
+				"god",
+				"Goto Documentation"
+			],
+			[
+				"doc",
+				"Goto Documentation"
+			],
+			[
+				"godoc",
+				"Goto Documentation"
+			],
+			[
+				"gos",
+				"GoSublime: Do a sanity check"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"gobui",
+				"GoSublime: Run build command"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"rails",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"spec",
+				"Rails Go to Spec"
+			],
+			[
+				"go",
+				"Rails Go to Spec"
+			],
+			[
+				"type",
+				"Zen Coding: Wrap zen as you type"
+			],
+			[
+				"zenc",
+				"Zen Coding: Zen as you type"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"linter",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"disab",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"sorce",
+				"SourceTree: Open SourceTree"
+			],
+			[
+				"pacaint",
+				"Package Control: Install Package"
+			],
+			[
+				"ssrail",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"zen as",
+				"Zen Coding: Zen as you type"
+			],
+			[
+				"pcup",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"zzen",
+				"Zen Coding: Zen as you type"
+			],
+			[
+				"ssze",
+				"Set Syntax: ZenCoding"
+			],
+			[
+				"pclp",
+				"Package Control: List Packages"
+			],
+			[
+				"li",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"lint",
+				"SublimeLinter: Save-Only Linting"
+			],
+			[
+				"lin",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"linter li",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"p",
+				"Package Control: List Packages"
+			],
+			[
+				"ssl",
+				"Set Syntax: Lua"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ninun/dev/keepscore/app/controllers/application_controller.rb",
+		"/Users/ninun/dev/violet/Gemfile",
+		"/Users/ninun/.bash_profile",
+		"/Users/ninun/dev/violet/.r",
+		"/Users/ninun/dev/violet/ge",
+		"/usr/local/share/fish/config.fish",
+		"/Users/ninun/dev/keepscore/config/routes.rb",
+		"/Users/ninun/dev/keepscore/app/views/layouts/application.html.erb",
+		"/Users/ninun/dev/keepscore/app/views/home/index.html.erb",
+		"/Users/ninun/dev/keepscore/app/controllers/home_controller.rb",
+		"/Users/ninun/dev/keepscore/app/views/layouts/home.html.erb",
+		"/Users/ninun/dev/keepscore/app/controllers/game_sets_controller.rb",
+		"/Users/ninun/dev/keepscore/app/controllers/users_controller.rb",
+		"/Users/ninun/dev/keepscore/app/models/ability.rb",
+		"/Users/ninun/dev/keepscore/app/controllers/games_controller.rb",
+		"/Users/ninun/dev/keepscore/app/assets/javascripts/game_set.js",
+		"/Users/ninun/dev/keepscore/app/controllers/sessions_controller.rb",
+		"/Users/ninun/dev/keepscore/app/models/user.rb",
+		"/Users/ninun/dev/keepscore/app/models/team.rb",
+		"/Users/ninun/dev/keepscore/app/views/game_sets/_form.html.erb",
+		"/Users/ninun/dev/keepscore/db/seeds.rb",
+		"/Users/ninun/dev/keepscore/app/assets/javascripts/application.js",
+		"/Users/ninun/dev/keepscore/app/views/game_sets/index.html.erb",
+		"/Users/ninun/dev/keepscore/app/assets/stylesheets/application.css.scss",
+		"/Users/ninun/dev/keepscore/app/assets/stylesheets/framework_and_overrides.css.scss",
+		"/Users/ninun/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/ninun/dev/keepscore/Gemfile",
+		"/Users/ninun/dev/pirateapp/config/environments/production.rb",
+		"/Users/ninun/dev/keepscore/config/environments/production.rb",
+		"/Users/ninun/dev/keepscore/config/application.yml",
+		"/Users/ninun/dev/keepscore/app/views/users/_form.html.erb",
+		"/Users/ninun/dev/pirateapp/Gemfile",
+		"/Users/ninun/dev/keepscore/app/views/users/new.html.erb",
+		"/Users/ninun/dev/keepscore/app/views/users/index.html.erb",
+		"/Users/ninun/dev/keepscore/app/views/games/index.html.erb",
+		"/Users/ninun/dev/keepscore/app/models/game_set.rb",
+		"/Users/ninun/dev/keepscore/app/views/game_sets/index.json.jbuilder",
+		"/Users/ninun/dev/keepscore/db/migrate/20140304192248_create_game_sets.rb",
+		"/Users/ninun/dev/keepscore/db/migrate/20140304192337_create_teams.rb",
+		"/Users/ninun/dev/keepscore/app/views/games/_form.html.erb",
+		"/Users/ninun/dev/keepscore/app/models/game.rb",
+		"/Users/ninun/dev/keepscore/app/views/users/_user.html.erb",
+		"/Users/ninun/dev/keepscore/db/migrate/20140304200654_add_teams_to_user.rb",
+		"/Users/ninun/dev/keepscore/app/views/layouts/_navigation_links.html.erb",
+		"/Users/ninun/dev/keepscore/app/views/layouts/_navigation.html.erb",
+		"/Users/ninun/dev/keepscore/config/initializers/omniauth.rb",
+		"/Users/ninun/dev/myapp/config/application.yml",
+		"/Users/ninun/dev/pirateapp/public/safari/update.plist",
+		"/Users/ninun/Projects/SafariEx/,",
+		"/Users/ninun/dev/pirateapp/log/development.log",
+		"/Users/ninun/dev/pirateapp/config/database.yml",
+		"/Users/ninun/dev/pirateapp/app/views/layouts/application.html.erb",
+		"/Users/ninun/dev/pirateapp/app/views/home/index.html.erb",
+		"/Users/ninun/dev/pirateapp/app/assets/stylesheets/application.css.scss",
+		"/Users/ninun/dev/pirateapp/app/assets/stylesheets/framework_and_overrides.css.scss",
+		"/Users/ninun/dev/pirateapp/app/controllers/pirate_controller.rb",
+		"/Users/ninun/dev/pirateapp/config/routes.rb",
+		"/Users/ninun/dev/pirateapp/app/views/pirate/download.html.erb",
+		"/Users/ninun/dev/pirateapp/app/helpers/pirate_helper.rb",
+		"/Users/ninun/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/ninun/dev/pirateapp/config/application.yml",
+		"/Users/ninun/Library/Application Support/Sublime Text 2/Packages/User/Ruby on Rails.sublime-settings",
+		"/Users/ninun/dev/pirateapp/config/application.example.yml",
+		"/Users/ninun/Downloads/thepiratebay.jpg",
+		"/Users/ninun/Projects/SafariEx/Pirate.safariextension/global.html",
+		"/Users/ninun/Projects/SafariEx/index.html",
+		"/Users/ninun/dev/rails/bloggy/myapp/app/views/layouts/_navigation.html.erb",
+		"/Users/ninun/dev/rails/bloggy/myapp/app/views/devise/registrations/edit.html.erb",
+		"/Users/ninun/dev/rails/bloggy/myapp/app/views/posts/index.html.erb",
+		"/Users/ninun/dev/rails/bloggy/myapp/app/views/posts/show.html.erb",
+		"/Users/ninun/dev/rails/bloggy/myapp/app/models/ability.rb",
+		"/Users/ninun/dev/rails/bloggy/myapp/app/controllers/users_controller.rb",
+		"/Users/ninun/dev/rails/bloggy/myapp/app/controllers/posts_controller.rb",
+		"/Users/ninun/dev/rails/bloggy/myapp/config/routes.rb",
+		"/Users/ninun/dev/rails/bloggy/myapp/config/environments/development.rb",
+		"/Users/ninun/Library/Application Support/Steam/SteamApps/common/Starbound/assets/biomes/oredistributions.lvltables",
+		"/Users/ninun/dev/rails/bloggy/myapp/log/development.log",
+		"/Users/ninun/dev/rails/bloggy/myapp/app/views/layouts/application.html.erb",
+		"/Users/ninun/Downloads/Marmalade SDK Mobile Game Development Essentials/3363OT_02_SourceCode/ITX/ITX.mkb",
+		"/Users/ninun/dev/marmalade/tut/tut.mkb",
+		"/Users/ninun/dev/marmalade/tut/main.cpp",
+		"/Users/ninun/.bashrc",
+		"/Users/ninun/Documents/404/404.xml",
+		"/Users/ninun/Projects/HEX/Internals/inject/inject-lib.c",
+		"/Users/ninun/Projects/HEX/Internals/inject/dictfind4.m",
+		"/Users/ninun/Projects/HEX/Internals/inject/dictfind4",
+		"/Users/ninun/dev/goexp/exp.go",
+		"/usr/local/Cellar/go/1.1.1/src/pkg/net/http/server.go",
+		"/Users/ninun/Library/Application Support/Sublime Text 2/Packages/GoSublime/9o.md",
+		"/Users/ninun/dev/download-cleaner/dc.go",
+		"/Users/ninun/Music/iTunes/iTunes Media/Music/Hex's Violet/Logic/09 Liar.mp3",
+		"/Users/ninun/dev/gosh/.r",
+		"/etc/hosts",
+		"/etc/host",
+		"/Users/ninun/Library/Application",
+		"/Users/ninun/Library/Application Support/Steam/Support/Endless",
+		"/Users/ninun/Library/Application Support/Steam/Space/Registry.xml",
+		"/Users/ninun/Library/Application Support/Sublime Text 2/Packages/GoSublime/GoSublime.sublime-settings",
+		"/Users/ninun/Library/Application Support/Sublime Text 2/Packages/GoToDoc/README.md",
+		"/Users/ninun/Library/Application Support/Sublime Text 2/Packages/GoSublime/USAGE.md",
+		"/Users/ninun/Library/Application Support/Sublime Text 2/Packages/GoSublime/CHANGELOG.md",
+		"/usr/local/go/src/github.com/kballard/go-osx-plist/utils_test.go",
+		"/usr/local/go/src/github.com/kballard/go-osx-plist/errors.go",
+		"/usr/local/go/src/github.com/AlekSi/xattr/xattr.go",
+		"/usr/local/go/src/github.com/kballard/go-osx-plist/plist.go",
+		"/usr/local/go/src/github.com/kballard/go-osx-plist/marshal.go",
+		"/usr/local/go/src/github.com/kballard/go-osx-plist/convert.go",
+		"/usr/local/go/src/github.com/AlekSi/xattr/xattr_darwin.go",
+		"/usr/local/go/src/github.com/davecheney/xattr/xattr_darwin.go",
+		"/usr/local/go/src/github.com/davecheney/xattr/xattr.go",
+		"/usr/local/go/src/github.com/davecheney/xattr/syscall_darwin.go",
+		"/usr/local/go/src/github.com/davecheney/xattr/xattr-example/main.go",
+		"/src/pkg/github.com/davecheney/xattr/example",
+		"/opt/local/etc/nginx/fastcgi.conf",
+		"/Users/ninun/dev/wordpress/com.hexviolet.php-fastcgi.plist",
+		"/Users/ninun/Downloads/wordpress/index.php",
+		"/usr/local/etc/bash_completion",
+		"/private/tmp/RubyTest.sublime-settings",
+		"/Users/ninun/.zprofile",
+		"/Users/ninun/dev/rails/apps/depot/app/views/store/index.html.erb",
+		"/Users/ninun/dev/rails/apps/depot/app/controllers/store_controller.rb",
+		"/Users/ninun/dev/rails/apps/depot/config/routes.rb",
+		"/Users/ninun/dev/rails/apps/depot/test/fixtures/products.yml",
+		"/Users/ninun/dev/rails/apps/depot/test/functional/products_controller_test.rb",
+		"/Users/ninun/dev/rails/apps/depot/app/models/product.rb",
+		"/Users/ninun/dev/rails/apps/depot/app/views/layouts/application.html.erb",
+		"/Users/ninun/dev/rails/apps/depot/test/unit/product_test.rb",
+		"/Users/ninun/dev/rails/apps/depot/app/views/products/_form.html.erb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/ninun/dev/keepscore/vendor/assets/javascripts",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".navbar-inverse .navbar-brand",
+			"999999",
+			"create_with_omniauth",
+			"correct_user?",
+			"create_with_omniauth",
+			"user.create",
+			"builder",
+			"=>",
+			"admin",
+			"create_with_omniauth",
+			"AddTeamsToUser",
+			"admin",
+			"OMNIAUTH_PROVIDER_KEY",
+			"yaml",
+			"provider",
+			"provider_key",
+			"APP_ID",
+			"env",
+			"ADMIN_NAME",
+			"pirateapp",
+			"compile",
+			"heroku",
+			"bootstrap",
+			"myapp",
+			"ADMIN_NAME",
+			"sEpN",
+			"seriesId",
+			"doBigCalc",
+			"getName",
+			"bigCalc",
+			"doFunction",
+			"obs",
+			"current_user",
+			"authorize",
+			"container",
+			"conference",
+			"Menu",
+			"password",
+			"passw",
+			"wait(",
+			"Done",
+			"file",
+			"Now",
+			"attrPlist",
+			"date",
+			"Date",
+			"date",
+			"Fi",
+			"fi",
+			"f",
+			"attrplist",
+			"assert",
+			"ebug",
+			"grayMediumLight",
+			"\n",
+			"running",
+			"--[[\n*************************************************************\n * This script is developed by Arturs Sosins aka ar2rsawseen, http://appcodingeasy.com\n * Feel free to distribute and modify code, but keep reference to its creator\n *\n * Gideros Game Template for developing games. Includes: \n * Start scene, pack select, level select, settings, score system and much more\n *\n * For more information, examples and online documentation visit: \n * http://appcodingeasy.com/Gideros-Mobile/Gideros-Mobile-Game-Template\n**************************************************************\n]]--\n\nlevel = gideros.class(Sprite)\n\n--for creating bounding walls\nfunction level:wall(x, y, width, height)\n	local wall = Shape.new()\n	wall:beginPath()\n	wall:moveTo(x,y)\n	wall:lineTo(x + width, y)\n	wall:lineTo(x + width, y + height)\n	wall:lineTo(x, y + height)\n	wall:lineTo(x, y)\n	wall:endPath()\n	wall:setPosition(x,y)\n	physicsAddBody(self.world, wall, {type = \"static\", density = 1.0, friction = 0.1, bounce = 0.2})\n	wall.body.type = \"wall\"\n	return wall\nend\n\nfunction level:onMouseDown( event )\n	if(startGame) then\n		--if isset description hide it\n		if self.description then\n			showDescription = false\n			self.description:setVisible(false)\n		end\n		level:startGame()\n	else\n		local x, y = levelSelf.crate:getPosition()\n		--apply some random force\n		levelSelf.crate.body:applyForce(1000*(math.random(1,3)-2), -10000, x+(math.random(1,3)-2), y+(math.random(1,3)-2))\n	end\nend\n\nfunction level:startGame()\n	--game started\n	startGame = false\n	--do your game logic and stuff\n	--let's simply drop crate\n	levelSelf.crate = displayImage.new(\"images/crate.png\", levelSelf)\n	levelSelf.crate:setPosition(200, 10)\n	physicsAddBody(levelSelf.world, levelSelf.crate, {type = \"dynamic\", density = 1.0, friction = 0.1, bounce = 0.2})\n	levelSelf.crate.body.type = \"crate\";\n	levelSelf:addChild(levelSelf.crate)\n	\n	--collision handler\n	local function onBeginContact(event)\n		local fixtureA = event.fixtureA\n		local fixtureB = event.fixtureB\n		local bodyA = fixtureA:getBody()\n		local bodyB = fixtureB:getBody()\n		\n		--calculate points based on velocity\n		vx, vy = bodyB:getLinearVelocity()\n		currentScore = currentScore + (math.ceil((math.abs(vx)+math.abs(vy))*10)*10)\n		\n		--update score on screen\n		levelSelf.score:setText(\"Score: \"..currentScore)\n		\n		--play hit sound\n		sounds.play(\"hit\")\n		\n		--add next level button\n		if currentScore > 1000 and not levelSelf:contains(levelSelf.nextLevel) then\n			levelSelf:addChild(levelSelf.nextLevel)\n		end\n	end\n	\n	--add collision handler\n	levelSelf.world:addEventListener(Event.BEGIN_CONTACT, onBeginContact)\nend\n\nfunction level:init()\n\n	--load scores\n	local highScore = dataSaver.loadValue(\"scores\")\n	--if not exist yet\n	if(not highScore) then\n		highScore = {}\n	end\n	--score for this level\n	if(not highScore[(sets.curPack)..\"-\"..sets.curLevel]) then\n		highScore[(sets.curPack)..\"-\"..sets.curLevel] = {}\n		highScore[(sets.curPack)..\"-\"..sets.curLevel].score = 0\n	end\n	currentScore = 0\n	--save score function\n	local saveScore = function()\n		if(currentScore > highScore[(sets.curPack)..\"-\"..sets.curLevel].score) then\n			highScore[(sets.curPack)..\"-\"..sets.curLevel].score = currentScore\n		end\n		--increase level\n		sets.curLevel = sets.curLevel + 1\n		\n		--if level does not exist in pack\n		if(packs.packs[sets.curPack].levels < sets.curLevel) then\n			--level one\n			sets.curLevel = 1\n			--increase pack\n			sets.curPack = sets.curPack + 1\n			--if pack exists\n			if(packs.packs[sets.curPack]) then\n				--unlock pack\n				local unPacks = dataSaver.loadValue(\"unPacks\")\n				if(not unPacks) then\n					unPacks = {}\n				end\n				unPacks[sets.curPack] = true\n				dataSaver.saveValue(\"unPacks\", unPacks)\n			else\n				--if doesn't exist, go back\n				sets.curPack = sets.curPack - 1\n			end\n			--unlock next level\n			if(not highScore[(sets.curPack)..\"-\"..sets.curLevel]) then\n				highScore[(sets.curPack)..\"-\"..sets.curLevel] = {}\n				highScore[(sets.curPack)..\"-\"..sets.curLevel].score = 0\n				highScore[(sets.curPack)..\"-\"..sets.curLevel].unlocked = true\n			end\n			--save high score\n			dataSaver.saveValue(\"scores\", highScore)\n			ret = \"pack_select\"\n		else\n			--unlock next level\n			if(not highScore[(sets.curPack)..\"-\"..sets.curLevel]) then\n				highScore[(sets.curPack)..\"-\"..sets.curLevel] = {}\n				highScore[(sets.curPack)..\"-\"..sets.curLevel].score = 0\n				highScore[(sets.curPack)..\"-\"..sets.curLevel].unlocked = true\n			end\n			--save high score\n			dataSaver.saveValue(\"scores\", highScore)\n			ret = \"level\"\n		end\n		--save setting\n		dataSaver.saveValue(\"sets\", sets)\n		--return to scene\n		return ret\n	end\n	--self reference\n	--fore easy access out of scope\n	levelSelf = self\n	--allow to start game\n	startGame = true\n	--is game paused\n	pauseGame = false\n	--create worl\n	self.world = b2.World.new(0, 10, true)\n\n	--add event listener\n	self:addEventListener(Event.MOUSE_DOWN, self.onMouseDown, self)\n\n	local lastLeft = 10\n	--reset button\n	resetButton = Button.new(Bitmap.new(Texture.new(\"images/reset_up.png\")), Bitmap.new(Texture.new(\"images/reset_down.png\")))\n	resetButton:setPosition(lastLeft, 10)\n	self:addChild(resetButton)\n	resetButton:addEventListener(\"click\", \n		function()	\n			if not startGame then\n				--dont show description\n				showDescription = false\n				--simply load same scene\n				sceneManager:changeScene(\"level\", 1, transition, easing.outBack)\n			end\n		end\n	)\n	lastLeft = lastLeft + resetButton:getWidth() + 45\n	\n	--back to menu button\n	menuBtn = Button.new(Bitmap.new(Texture.new(\"images/menu_up.png\")), Bitmap.new(Texture.new(\"images/menu_down.png\")))\n	menuBtn:setPosition(lastLeft, 10)\n	self:addChild(menuBtn)\n	menuBtn:addEventListener(\"click\", \n		function()	\n			if not startGame then\n				pauseGame = true\n				--create layer for menu buttons\n				local menu = Shape.new()\n				menu:setFillStyle(Shape.SOLID, 0xffffff, 0.5)   \n				menu:beginPath(Shape.NON_ZERO)\n				menu:moveTo(application:getContentWidth()/5,application:getContentHeight()/16)\n				menu:lineTo((application:getContentWidth()/5)*4, application:getContentHeight()/16)\n				menu:lineTo((application:getContentWidth()/5)*4, application:getContentHeight()-(application:getContentHeight()/16))\n				menu:lineTo(application:getContentWidth()/5, application:getContentHeight()-(application:getContentHeight()/16))\n				menu:lineTo(application:getContentWidth()/5, application:getContentHeight()/16)\n				menu:endPath()\n				levelSelf:addChild(menu)\n				\n				--close menu button\n				local backButton = menuButton(\"images/back_up.png\",\"images/back_down.png\", menu, 1,5)\n				menu:addChild(backButton)\n				backButton:addEventListener(\"click\", \n					function()	\n						pauseGame = false\n						levelSelf:removeChild(menu)\n					end\n				)\n				\n				--reset level button\n				local restartButton = menuButton(\"images/reset_up.png\",\"images/reset_down.png\", menu, 2,5)\n				menu:addChild(restartButton)\n				restartButton:addEventListener(\"click\", \n					function()	\n						sceneManager:changeScene(\"level\", 1, transition, easing.outBack)\n					end\n				)\n				\n				--select pack button\n				local packButton = menuButton(\"images/packselect_up.png\",\"images/packselect_down.png\", menu, 3,5)\n				menu:addChild(packButton)\n				packButton:addEventListener(\"click\", \n					function()	\n						sceneManager:changeScene(\"pack_select\", 1, transition, easing.outBack)\n					end\n				)\n				\n				--select level of current pack button\n				local levelButton = menuButton(\"images/levelselect_up.png\",\"images/levelselect_down.png\", menu, 4,5)\n				menu:addChild(levelButton)\n				levelButton:addEventListener(\"click\", \n					function()	\n						sceneManager:changeScene(\"level_select\", 1, transition, easing.outBack)\n					end\n				)\n				\n				--go to start menu\n				local menuButton = menuButton(\"images/menu_up.png\",\"images/menu_down.png\", menu, 5,5)\n				menu:addChild(menuButton)\n				menuButton:addEventListener(\"click\", \n					function()	\n						sceneManager:changeScene(\"start\", 1, transition, easing.outBack)\n					end\n				)\n			end\n		end\n	)\n	lastLeft = lastLeft + menuBtn:getWidth() + 45\n	\n	--pause button\n	self.pauseButton = Button.new(Bitmap.new(Texture.new(\"images/pause_up.png\")), Bitmap.new(Texture.new(\"images/pause_down.png\")))\n	self.pauseButton:setPosition(lastLeft, 10)\n	self:addChild(self.pauseButton)\n	self.pauseButton:addEventListener(\"click\", \n		function()\n			if not startGame then\n				pauseGame = true\n				self:removeChild(self.pauseButton)\n				self:addChild(self.resumeButton)\n			end\n		end\n	)\n	\n	--resume button\n	self.resumeButton = Button.new(Bitmap.new(Texture.new(\"images/resume_up.png\")), Bitmap.new(Texture.new(\"images/resume_down.png\")))\n	self.resumeButton:setPosition(lastLeft, 10)\n	self.resumeButton:addEventListener(\"click\", \n		function()\n			if not startGame then\n				pauseGame = false\n				self:removeChild(self.resumeButton)\n				self:addChild(self.pauseButton)\n			end\n		end\n	)\n	\n	\n	--next level button\n	self.nextLevel = Button.new(Bitmap.new(Texture.new(\"images/next_up.png\")), Bitmap.new(Texture.new(\"images/next_down.png\")))\n	self.nextLevel:setPosition((application:getContentWidth()-self.nextLevel:getWidth())/2, (application:getContentHeight()-self.nextLevel:getHeight())/2)\n	self.nextLevel:addEventListener(\"click\", \n		function()	\n			--display description of next level\n			showDescription = true\n			--play complete sounds\n			sounds.play(\"complete\")\n			--vibrate phone\n			application:vibrate()\n			--save score, increase level, reset scene\n			sceneManager:changeScene(saveScore(), 1, SceneManager.flipWithFade, easing.outBack)\n		end\n	)\n	\n	--display highscore\n	local highscore = TextField.new(nil, \"Highscore: \"..highScore[(sets.curPack)..\"-\"..sets.curLevel].score)\n	highscore:setPosition(10,application:getContentHeight()-30)\n	highscore:setTextColor(0x000000)\n	self:addChild(highscore)\n	\n	--display current score\n	self.score = TextField.new(nil, \"Score: 0\")\n	self.score:setPosition(10,application:getContentHeight()-20)\n	self.score:setTextColor(0x000000)\n	self:addChild(self.score)\n	\n	if showDescription then\n		--create level description\n		self.description = Shape.new()\n		self.description:setFillStyle(Shape.SOLID, 0xff0000, 0.5)   \n		self.description:beginPath(Shape.NON_ZERO)\n		self.description:moveTo(application:getContentWidth()/5,application:getContentHeight()/16)\n		self.description:lineTo((application:getContentWidth()/5)*4, application:getContentHeight()/16)\n		self.description:lineTo((application:getContentWidth()/5)*4, application:getContentHeight()-(application:getContentHeight()/16))\n		self.description:lineTo(application:getContentWidth()/5, application:getContentHeight()-(application:getContentHeight()/16))\n		self.description:lineTo(application:getContentWidth()/5, application:getContentHeight()/16)\n		self.description:endPath()\n		self:addChild(self.description)\n		\n		--setting up description texts\n		local lastHeight = (application:getContentHeight()/16)*2\n		local textWidth = ((application:getContentWidth()/5)*3) - ((application:getContentHeight()/16)*2)\n		local levelName = TextWrap.new(\"Level Name \"..sets.curLevel..\" - simply click to start\", textWidth)\n		levelName:setPosition((application:getContentWidth()/5)+application:getContentHeight()/16, lastHeight)\n		levelName:setTextColor(0xffffff)\n		self.description:addChild(levelName)\n		lastHeight = lastHeight + 20 + levelName:getHeight()\n		\n		local levelDesc = TextWrap.new(\"Click more to make crate jump. Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc suscipit arcu placerat lorem iaculis bibendum. Phasellus eu urna non massa rutrum euismod. Proin ac scelerisque augue. Sed vitae augue mi. Cras mi tellus, auctor pulvinar aliquet sed, suscipit eget justo. Nulla nec sem ac metus mollis ullamcorper eget eget dolor. Phasellus dapibus ligula ut lectus fringilla eu suscipit purus iaculis. Pellentesque commodo ipsum ac magna sollicitudin placerat. Morbi tempor pellentesque lacinia. Praesent quis mauris diam. Proin scelerisque venenatis libero, eu dictum orci placerat eget. In vitae metus quis ligula mollis blandit. Vestibulum est sem, ultricies id tempus et, sollicitudin eu augue.\", textWidth, \"justify\")\n		levelDesc:setPosition((application:getContentWidth()/5)+application:getContentHeight()/16, lastHeight)\n		levelDesc:setTextColor(0xffffff)\n		self.description:addChild(levelDesc)\n	else\n		level:startGame()\n	end\n	\n	--bounding walls around screen\n	self:addChild(self:wall(0,0,10,application:getContentHeight()))\n	self:addChild(self:wall(0,0,application:getContentWidth(),10))\n	self:addChild(self:wall(application:getContentWidth()-10,0,10,application:getContentHeight()))\n	self:addChild(self:wall(0,application:getContentHeight()-10,application:getContentWidth(),10))\n\n	--debug drawing\n	local debugDraw = b2.DebugDraw.new()\n	self.world:setDebugDraw(debugDraw)\n	self:addChild(debugDraw)\n\n	--run world\n	self:addEventListener(Event.ENTER_FRAME, self.onEnterFrame)\n	--remove event on exiting scene\n	self:addEventListener(\"exitBegin\", self.onExitBegin, self)\nend\n\n--removing event\nfunction level:onEnterFrame() \n	if not startGame and not pauseGame then\n		updatePhysicsObjects(levelSelf.world, levelSelf)\n	end\nend\n\n--removing event on exiting scene\nfunction level:onExitBegin()\n  self:removeEventListener(Event.ENTER_FRAME, self.onEnterFrame, self)\nend",
+			"menuBu"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			":",
+			"mypirate",
+			"Now"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/views/game_sets/_form.html.erb",
+					"settings":
+					{
+						"buffer_size": 1261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								335,
+								357
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/assets/javascripts/game_set.js",
+					"settings":
+					{
+						"buffer_size": 181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/views/layouts/about.html.erb",
+					"settings":
+					{
+						"buffer_size": 112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<div class=\"row\"></div>",
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 557,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								55,
+								55
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/assets/stylesheets/application.css.scss",
+					"settings":
+					{
+						"buffer_size": 2027,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								605,
+								605
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/SASS/Syntaxes/SASS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///":
+	{
+		"height": 100.0
+	},
+	"output.9o:///Users/ninun/Documents/404":
+	{
+		"height": 100.0
+	},
+	"output.9o:///Users/ninun/dev/download-cleaner":
+	{
+		"height": 245.0
+	},
+	"output.9o:///Users/ninun/dev/gosh":
+	{
+		"height": 278.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 100.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 100.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 302.0
+	},
+	"output.git":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"abili",
+				"app/models/ability.rb"
+			],
+			[
+				"userr",
+				"app/models/user.rb"
+			],
+			[
+				"sessi",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"rot",
+				"config/routes.rb"
+			],
+			[
+				"addteamstouser",
+				"db/migrate/20140304200654_add_teams_to_user.rb"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"gemfil",
+				"Gemfile"
+			],
+			[
+				"yml",
+				"config/database.yml"
+			],
+			[
+				"prod",
+				"config/environments/production.rb"
+			],
+			[
+				"dat",
+				"config/database.yml"
+			],
+			[
+				"datab",
+				"config/database.yml"
+			],
+			[
+				"homeht",
+				"app/views/home/index.html.erb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"rotesr",
+				"config/routes.rb"
+			],
+			[
+				"routr",
+				"config/routes.rb"
+			],
+			[
+				"deve",
+				"config/environments/development.rb"
+			],
+			[
+				"index",
+				"app/views/store/index.html.erb"
+			],
+			[
+				"indexht",
+				"app/views/products/index.html.erb"
+			],
+			[
+				"store_control",
+				"app/controllers/store_controller.rb"
+			],
+			[
+				"producy",
+				"test/fixtures/products.yml"
+			],
+			[
+				"product_test",
+				"test/unit/product_test.rb"
+			],
+			[
+				"product_te",
+				"test/unit/product_test.rb"
+			],
+			[
+				"func/",
+				"test/functional/products_controller_test.rb"
+			],
+			[
+				"apple",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"productcss",
+				"app/assets/stylesheets/products.css.scss"
+			],
+			[
+				"see",
+				"db/seeds.rb"
+			],
+			[
+				"products/",
+				"app/views/products/_form.html.erb"
+			],
+			[
+				"create",
+				"db/migrate/20130331180359_create_products.rb"
+			],
+			[
+				"good",
+				"app/views/say/goodbye.html.erb"
+			],
+			[
+				"hello",
+				"app/views/say/hello.html.erb"
+			],
+			[
+				"sayco",
+				"app/controllers/say_controller.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 358.0,
+	"status_bar_visible": true
+}

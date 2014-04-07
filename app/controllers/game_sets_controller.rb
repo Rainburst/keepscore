@@ -5,7 +5,7 @@ class GameSetsController < ApplicationController
   # GET /game_sets
   # GET /game_sets.json
   def index
-    @game_sets = GameSet.all
+    @game_sets = GameSet.all.sort { |a, b| a.created_at <=> b.created_at }
   end
 
   # GET /game_sets/1

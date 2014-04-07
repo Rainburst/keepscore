@@ -1,4 +1,5 @@
 Keepscore::Application.routes.draw do
+  get '/about' => "about#index"
   root :to => "home#index"
   resources :users, :only => [:index, :show, :edit, :update, :new, :create, :destroy]
   resources :games, :only => [:index, :show, :edit, :update, :new, :create]

@@ -5,6 +5,7 @@
     <tr>
       <th>Name</th>
       <th>Description</th>
+      <th>Sets</th>
       <th>More</th>
       <th></th>
     </tr>
@@ -15,6 +16,7 @@
       <tr>
         <td><%= link_to game.name, game %></td>
         <td><%= truncate(game.description, length:20) %></td>
+        <td><%= pluralize(game.game_sets.count, 'game')  %> played</td>
         <td><%= link_to 'Edit', edit_game_path(game) %></td>
         <td><%= link_to 'Destroy', game, method: :delete, data: { confirm: 'Are you sure?' } %></td>
       </tr>
